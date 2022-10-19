@@ -1,0 +1,27 @@
+body{
+    background-color: lightgray;
+}
+span{
+    color:darkred;
+}
+nav a:hover{
+    text-decoration: none;
+    color:darkred;
+}
+nav a{
+     
+    color:black;
+}
+ol{
+    list-style-type: none;  
+}
+img{
+    position: relative;
+    left:30%;
+}
+p{
+    font-size:24px;
+}
+nav ol{
+    display: inline;
+    }

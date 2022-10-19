@@ -1,0 +1,25 @@
+body{
+    background-color: lightgrey;
+    font-size: 16px;
+}
+h1{
+    text-decoration: underline;
+    color: darkred; 
+}
+h2 {
+    text-decoration: underline;
+    color: darkred;
+}
+nav a:hover{
+    text-decoration: none;
+    color:darkred;
+}
+nav a{
+    color: black;
+}
+ol{
+    list-style-type: none;
+}
+ul li:nth-child(odd) {
+    font-weight:bold ;
+}
